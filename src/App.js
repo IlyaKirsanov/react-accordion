@@ -1,26 +1,42 @@
-import React from 'react';
-import logo from './logo.svg';
+import React, { useState } from 'react';
+import Vacancy from './Vacancy'
+import vacations from './vacations.json'
+import { map } from 'lodash'
+
 import './App.css';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+class App extends React.Component {
+  state = { currentOpenVacancy: null }
+
+  toggleVacancy = vacancyId => {
+    this.setState({
+      currentOpenVacancy: vacancyId !== this.state.currentOpenVacancy
+        ? vacancyId
+        : null
+    })
+  }
+
+  _getVacancyItems() {
+    return map(vacations, (vacancy, idx) => {
+      return <Vacancy
+        key={idx}
+        vacancyId={idx}
+        currentOpenVacancy={this.state.currentOpenVacancy}
+        toggleVacancy={this.toggleVacancy}
+        dddd={this.dddd}
+      />
+    })
+      }
+
+  render() {
+    return (
+      <div className="App">
+        <div className="vacancies">
+          {this._getVacancyItems()}
+        </div>
+      </div>
+    );
+  }
 }
 
 export default App;

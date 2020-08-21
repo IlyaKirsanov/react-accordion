@@ -1,0 +1,517 @@
+{
+  "CloudSystemsEngineer": {
+    "position": "Cloud Systems Engineer",
+    "title": "Cloud Systems Engineer",
+    "location": "Ukraine, Odesa",
+    "open": "false",
+    "descriptions": [
+        {
+        "title": "Project description",
+        "paragraphs": [
+          "We are searching for a skilled and enthusiastic person to join our international team. You will be integrated into US based web hosting company. As a cloud system engineer you will participate in enhancements stability of the company critical infrastructure."
+        ]
+      },
+      {
+        "title": "Required skills",
+        "paragraphs": [
+          "3+ years deploying and managing Linux operating system environments.",
+          "3+ years of hands-on networking experience including functional knowledge of HTTP, DNS, TCP/IP, BGP,",
+          "OSPF and related networking protocols and technologies.",
+          "Experience with OpenStack, including prior contributions, blueprints.",
+          "Expert knowledge in Python.",
+          "Experience with virtualization, preferably KVM."
+        ]
+      },
+      {
+        "title": "As a plus",
+        "paragraphs": [
+          "OpenStack community involvement is a big plus.",
+          "Experience with hosting companies.",
+          "Experience with Perl language."
+        ]
+      },
+      {
+        "title": "We offer",
+        "paragraphs": [
+          "Possibility to work remotely or from office in Odesa.",
+          "Five-day work-week within young and energetic team",
+          "Paid vacation — 22 working days per year",
+          "Competitive salary, yearly reviewed, possibilities of growth",
+          "Business trips to customer (Los Angeles) once a year."
+        ]
+      },
+      {
+        "title": "Responsibilities",
+        "paragraphs": [
+          "Be a contributor on our cloud team, helping build and operate our cloud platform.",
+          "Contribute upstream changes to OpenStack, including bug fixes, new features, and blueprints, along with being a significant participant in the community.",
+          "Exhibit a strong passion for developing cloud scale software."
+        ]
+      }
+      
+    ]
+  },
+  "JuniorSoftwareEngineer": {
+    "position": "Junior Software Engineer",
+    "title": "Junior Software Engineer",
+    "location": "Ukraine, Odesa",
+    "open": "false",
+    "descriptions": [
+        {
+        "title": "Project description",
+        "paragraphs": [
+          "We are searching for a skilled and enthusiastic person to join our international team. You will be part of a team developing products for a US companies. We specialize in web hosting companies. As a software engineer you will participate in the whole product development process. Phobosys offers solutions for any stages of the product life cycle."
+        ]
+      },
+      {
+        "title": "Required skills",
+        "paragraphs": [
+          "Basic skills in front-end engineering using JavaScript in Object-Oriented meter.", 
+          "Skills in HTML 5 and CSS 3.", 
+          "Ability to pick up new technology quickly.", 
+          "Basic written and spoken communication skills in English."
+        ]
+      },
+      {
+        "title": "As a plus",
+        "paragraphs": [
+          "Familiarity with testing frameworks: Karma, Selenium.",
+          "Libraries and micro frameworks (Angular, Vue, React).",
+          "Knowledge in front-end code performance analysis"
+        ]
+      },
+      {
+        "title": "We offer",
+        "paragraphs": [
+          "Five-day work-week within young and energetic team",
+          "Paid vacation — 20 working days per year",
+          "An opportunity to work with a product company.",
+          "Large-scale international projects.",
+          "Flexible at work schedule.",
+          "Flexible at work schedule.",
+          "Competitive pay reviewed each six months, a lot of possibilities to grow."
+        ]
+      },
+      {
+        "title": "Responsibilities",
+        "paragraphs": [
+          "Carry out project code reviews and design reviews.",
+          "Analyze and estimate implementation efforts.",
+          "Report to PM about current tasks status technical and other risks."
+        ]
+      }      
+    ]
+  },
+  "LinuxSystemAdministrator": {
+    "position": "Linux System Administrator (TechOps)",
+    "title": "Linux System Administrator (TechOps)",
+    "location": "Ukraine, Odesa",
+    "hot":"true",
+    "open":"false",
+    "descriptions": [
+        {
+        "title": "Project description",
+        "paragraphs": [
+          "We are searching for a skilled and enthusiastic person to join our international team. You will be integrated into US based web hosting company. As a system administrator you will participate in enhancements stability of the company critical infrastructure."
+        ]
+      },
+      {
+        "title": "Required skills",
+        "paragraphs": [
+          "3+ years of experience in administrating systems.", 
+          "Working technical knowledge of current software protocols, and Internet standards, including TCP/IP.", 
+          "HTML, AJAX, JavaScript, and XML.", 
+          "Linux experience, ideally in a Systems Administration role.",
+          "Experience with programming languages (Shell, Perl, Ruby, Python)",
+          "Experience of Configuration Management systems, CI/CD pipelines, and Infrastructure as Code including",
+          "Chef, Ansible, GitLab, Terraform.",
+          "Experience with monitoring systems such as Nagios, Grafana, Sensu, and Zabbix."
+        ]
+      },
+      {
+        "title": "As a plus",
+        "paragraphs": [
+          "Software troubleshooting experience.",
+          "Experience with Perl language."
+        ]
+      },
+      {
+        "title": "We offer",
+        "paragraphs": [
+          "Possibility to work remotely or from office in Odesa.",
+          "Five-day work week within a young and energetic team.",
+          "Paid vacation — 22 working days per year.",
+          "Competitive pay reviewed each six months, a lot of possibilities to grow.",
+          "Business trips to head office (Los Angeles) once a year."         
+        ]
+      },
+      {
+        "title": "Responsibilities",
+        "paragraphs": [
+          "Assist in the design and enhancements to existing applications, software, and operating systems.",
+          "Collaborate with engineering staff to ensure smooth and reliable operation of software and systems for fulfilling business objectives and processes.",
+          "Daily maintenance and problem resolution, operating system patches and software upgrades, and routine hardware configuration.",
+          "Assist in the design and perform server and security audits, system backup procedures, and other recovery processes in accordance with the company’s disaster recovery and business continuity strategies."
+        ]
+      }
+      
+    ]
+  },
+  "MiddleEngineerBack": {
+    "position": "Middle Software Engineer (Back-End)",
+    "title": "Middle Software Engineer (Back-End)",
+    "location": "Ukraine, Odesa",
+    "open": "false",
+    "descriptions": [
+      {
+        "title": "Project description",
+        "paragraphs": [
+          "We are searching for a skilled and enthusiastic person to join our international team. You will be part of a team developing products for a US companies. We specialize in web hosting companies. As a software engineer you will participate in the whole product development process. Phobosys offers solutions for any stages of the product life cycle."
+        ]
+      },
+      {
+        "title": "Required skills",
+        "paragraphs": [
+          "Skills in back-end engineering using JavaScript/TypeScript in Object-Oriented meter.",
+          "Libraries and micro frameworks (Nestjs, Express).",
+          "Experience in back-end code performance analysis.",
+          "Skills in databases SQL/non-SQL.",
+          "Good written and spoken communication skills in English."
+        ]
+      },
+      {
+        "title": "As a plus",
+        "paragraphs": [
+          "Experience in virtualization technologies and microservices (docker).",
+          "Skills in front-end technologies (React).",
+          "Skills in MySQL."
+        ]
+      },
+      {
+        "title": "We offer",
+        "paragraphs": [
+          
+          "Five-day work week within a young and energetic team.",
+          "Paid vacation — 20 working days per year.",
+          "An opportunity to work with a product company.",
+          "Large-scale international projects.",
+          "Flexible at work schedule.",
+          "Competitive pay reviewed each six months, a lot of possibilities to grow."
+        ]
+      },
+      {
+        "title": "Responsibilities",
+        "paragraphs": [
+          "Conduct project design reviews and code reviews",
+          "Analyze and estimate implementation efforts",
+          "Be technical mentor for less experienced team members",
+          "Report to PM about current tasks status technical and other risks"
+        ]
+      }
+    ]
+  },
+  "MiddleEngineerFront": {
+    "position": "Middle Software Engineer (Front-End)",
+    "title": "Middle Software Engineer (Front-End)",
+    "location": "Ukraine, Odesa",
+    "open": "false",
+    "descriptions": [
+      {
+        "title": "Project description",
+        "paragraphs": [
+          "We are searching for a skilled and enthusiastic person to join our international team. You will be part of a team developing products for a US companies. We specialize in web hosting companies. As a software engineer you will participate in the whole product development process. Phobosys offers solutions for any stages of the product life cycle."
+        ]
+      },
+      {
+        "title": "Required skills",
+        "paragraphs": [
+          "Skills in front-end engineering using JavaScript in Object-Oriented meter.",
+          "Libraries and micro frameworks (Angular, Vue, React).",
+          "Experience in back-end code performance analysis.",
+          "Familiarity with testing automation: Karma, Selenium.",
+          "Good written and spoken communication skills in English."
+        ]
+      },
+      {
+        "title": "As a plus",
+        "paragraphs": [
+          "Experience in virtualization technologies and microservices (docker).",
+          "Skills in back-end technologies (node.js, python or any other).",
+          "Skills in databases sql/non-sql."
+        ]
+      },
+      {
+        "title": "We offer",
+        "paragraphs": [
+          "Five-day work week within a young and energetic team.",
+          "Paid vacation — 20 working days per year.",
+          "An opportunity to work with a product company.",
+          "Large-scale international projects.",
+          "Flexible at work schedule.",
+          "Competitive pay reviewed each six months, a lot of possibilities to grow."
+        ]
+      },
+      {
+        "title": "Responsibilities",
+        "paragraphs": [
+          "Conduct project design reviews and code reviews",
+          "Analyze and estimate implementation efforts",
+          "Be technical mentor for less experienced team members",
+          "Report to PM about current tasks status technical and other risks"
+        ]
+      }
+    ]
+  },
+  "NetworkEngineer": {
+    "position": "Network Engineer",
+    "title": "Network Engineer",
+    "location": "Ukraine, Odesa",
+    "open": "false",
+    "descriptions": [
+      {
+        "title": "Project description",
+        "paragraphs": [
+          "We are searching for a skilled and enthusiastic person to join our international team. You will be integrated into US based web hosting company. As a network engineer you will participate in enhancements stability of the company networks."
+        ]
+      },
+      {
+        "title": "Required skills",
+        "paragraphs": [
+          "3+ years of experience in networks engineering.",
+          "CCNA or equivalent certificate.",
+          "Working knowledge of OSPF, BGP, IPv6, VRRP.",
+          "Operational Linux System Administration.",
+          "Cisco specific networking and familiarity with IOS.",
+          "A practical level of experience implementing and administering common TCP/IP-based services, including DNS, DHCP, HTTP, FTP, SSH, SMTP, etc."
+        ]
+      },
+      {
+        "title": "As a plus",
+        "paragraphs": [
+          "Arista/Force10/Brocade knowledge.",
+          "Wireless Access Points - bonus points for Xirrus.",
+          "Experience with Perl language."
+        ]
+      },
+      {
+        "title": "We offer",
+        "paragraphs": [
+          "Possibility to work remotely or from office in Odesa.",
+          "Five-day work week within a young and energetic team.",
+          "Paid vacation — 22 working days per year.",
+          "Competitive pay reviewed each six months, a lot of possibilities to grow.",
+          "Business trips to head office (Los Angeles) once a year."
+
+        ]
+      },
+      {
+        "title": "Responsibilities",
+        "paragraphs": [
+          "Identify, diagnose, and resolve network problems.",
+          "Maintain and support company’s LAN/WAN environment.",
+          "Daily maintenance and problem resolution, operating system patches and software upgrades, and routine hardware configuration.",
+          "Obtain and maintain required certifications for partnership with key vendors."
+        ]
+      }
+    ]
+  },
+  "SeniorEngineer": {
+    "position": "Senior Software Engineer",
+    "title": "Senior Software Engineer",
+    "location": "Ukraine, Odesa",
+    "open": "false",
+    "hot": "true",
+    "descriptions": [
+      {
+        "title": "Project description",
+        "paragraphs": [
+          "We are searching for a skilled and enthusiastic person to join our international team. You will be part of a team developing products for a US companies. We specialize in web hosting companies. As a software engineer you will participate in the whole product development process. Phobosys offers solutions for any stages of the product life cycle."
+        ]
+      },
+      {
+        "title": "Required skills",
+        "paragraphs": [
+          "Skills in front-end engineering using JavaScript in Object-Oriented meter",
+          "Libraries and micro frameworks (Angular, Vue, React).",
+          "Skills at back-end engineering (node.js, python or any other)",
+          "Experience in virtualization technologies and microservices (docker, vagrant)",
+          "Experience in front-end and back-end code performance analysis",
+          "Familiarity with testing automation: Karma, Selenium",
+          "Advanced written and spoken communication skills in English."
+        ]
+      },
+      {
+        "title": "As a plus",
+        "paragraphs": [
+          "Skills in architecting microservices systems",
+          "Experience in orchestration (Terraform, Kubernetes)"
+          
+        ]
+      },
+      {
+        "title": "We offer",
+        "paragraphs": [
+          "Five-day work week within a young and energetic team.",
+          "Paid vacation — 22 working days per year.",
+          "An opportunity to work with a product company.",
+          "Large-scale international projects.",
+          "Flexible at work schedule.",
+          "Competitive pay reviewed each six months, a lot of possibilities to grow."
+        ]
+      },
+      {
+        "title": "Responsibilities",
+        "paragraphs": [
+          "Conduct project design reviews and code reviews",
+          "Analyze and estimate implementation efforts",
+          "Be technical mentor for less experienced team members",
+          "Report to PM about current tasks status technical and other risks"
+        ]
+      }
+    ]
+  },
+  "MiddleQaAutomation": {
+    "position": "Middle QA Automation Engineer",
+    "title": "Middle QA Automation Engineer",
+    "location": "Ukraine, Odesa",
+    "open": "false",
+    "descriptions": [
+      {
+        "title": "Project description",
+        "paragraphs": [
+          "We are searching for a skilled and enthusiastic person to join our international team. You will be part of a team developing products for a US companies. We specialize in web hosting companies. As a software engineer you will participate in the whole product development process. Phobosys offers solutions for any stages of the product life cycle."
+        ]
+      },
+      {
+        "title": "Required skills",
+        "paragraphs": [
+          "Experience in Quality Assurance (1+ years)",
+          "Experience in writing selenium automation tests",
+          "Strong Knowledge of QA methodology and tooling",
+          "Understanding and knowledge of Web Technologies/protocols (JSON, AJAX, SOAP, HTTP, SSL) agile methodology and tools: JIRA, Confluence",
+          "Intermediate English"
+        ]
+      },
+      {
+        "title": "As a plus",
+        "paragraphs": [
+          "JavaScript, CSS",
+          "Automation skills"
+        ]
+      },
+      {
+        "title": "We offer",
+        "paragraphs": [
+          "Five-day work week within a young and energetic team.",
+          "Paid vacation — 20 working days per year.",
+          "An opportunity to work with a product company.",
+          "Large-scale international projects.",
+          "Flexible at work schedule.",
+          "Competitive pay reviewed each six months, a lot of possibilities to grow."
+        ]
+      }
+    ]
+  },
+  "SystemsDeveloper": {
+    "position": "Systems Developer (DevOps)",
+    "title": "Systems Developer (DevOps)",
+    "location": "Ukraine, Odesa",
+    "open": "false",
+    "descriptions": [
+      {
+        "title": "Project description",
+        "paragraphs": [
+          "We are searching for a skilled and enthusiastic person to join our international team. You will be integrated into US based web hosting company. As a system developer you will participate in enhancements stability of the company critical infrastructure."
+        ]
+      },
+      {
+        "title": "Required skills",
+        "paragraphs": [
+          "2+ years of experience as DevOps engineer.",
+          "1+ years of experience with Docker, Kubernetes.",
+          "Experience with Ansible, Terraform.",
+          "Strong knowledge of Linux, OSI model, load balancing, clusterization, virtualization.",
+          "Experience in building CI/CD processes (experience with Git).",
+          "Experience with Python or Ruby languages."
+        ]
+      },
+      {
+        "title": "As a plus",
+        "paragraphs": [
+          "Software troubleshooting experience.",
+          "Experience with Perl language."
+        ]
+      },
+      {
+        "title": "We offer",
+        "paragraphs": [
+          "Possibility to work remotely or from office in Odesa.",
+          "Five-day work week within a young and energetic team.",
+          "Paid vacation — 22 working days per year.",
+          "Competitive pay reviewed each six months, a lot of possibilities to grow.",
+          "Business trips to customer (Los Angeles) once a year."
+          
+        ]
+      },
+      {
+        "title": "Responsibilities",
+        "paragraphs": [
+          "Assist in the design and enhancements to existing applications, software, and operating systems.",
+          "Collaborate with engineering staff to ensure smooth and reliable operation of software and systems for fulfilling business objectives and processes.",
+          "Daily maintenance and problem resolution, operating system patches and software upgrades, and routine hardware configuration.",
+          "Assist in the design and perform server and security audits, system backup procedures, and other recovery processes in accordance with the company’s disaster recovery and business continuity strategies."
+        ]
+      }
+    ]
+  },
+  "UiUxDesigner": {
+    "position": "UI/UX Designer",
+    "title": "UI/UX Designer",
+    "location": "Ukraine, Odesa",
+    "open": "false",
+    "descriptions": [
+      {
+        "title": "Project description",
+        "paragraphs": [
+          "We are looking for a User Interface / User Experience Designer of different levels to join our international creative team. You will be a part of a team designing products for a US-based hosting company, DreamHost LLC. As a UI/UX designer, you will take a part of the entire process of design: user flow, wireframe, prototype, and pixel perfect final design for the modern web & mobile applications."
+        ]
+      },
+      {
+        "title": "Required skills",
+        "paragraphs": [
+          "At least 3+ years of experience designing user interfaces for web & mobile applications",
+          "Expertise in Adobe products, InVision or other wireframe & prototyping tool",
+          "Passion for elegant and intuitive user interfaces with ability to balance different points of view.",
+          "Understanding of modern web technologies & platforms: Single Page Web Applications, Android, iOS",
+          "Effective verbal and written communication skills are a must as you will work in a team environment."
+        ]
+      },
+      {
+        "title": "As a plus",
+        "paragraphs": [
+          "Experience with AGILE methodologies is a plus working with other teams via JIRA."
+        ]
+      },
+      {
+        "title": "We offer",
+        "paragraphs": [
+          "Five-day work week within a young and energetic team.",        
+          "Paid vacation — 20 working days per year.",
+          "Large international projects",
+          "Flexible working schedule",
+          "Competitive pay reviewed each six months, a lot of possibilities to grow."          
+        ]
+      },
+      {
+        "title": "Responsibilities",
+        "paragraphs": [
+          "Assess functional requirements while understanding the business needs & customer expectations",
+          "Produce user flows, wireframes, prototypes, and final design in Photoshop as deliverables for the technology team for all platforms",
+          "Analyze user interface problems and create on-brand design solutions that bridge user and business goals",
+          "Conduct user experience research to improve existing and new applications"
+        ]
+      }
+    ]
+  }
+
+}
